@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBar.d",
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBar.o",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/master.swiftdeps"
+  },
+  "/Users/codejagaban/uc-projects/MeetingBar/Sources/MeetingBar/CalendarManager.swift": {
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/CalendarManager.swift.o",
+    "swiftmodule": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/CalendarManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/CalendarManager.swiftdeps",
+    "diagnostics": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/CalendarManager.dia"
+  },
+  "/Users/codejagaban/uc-projects/MeetingBar/Sources/MeetingBar/MeetingBarApp.swift": {
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBarApp.swift.o",
+    "swiftmodule": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBarApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBarApp.swiftdeps",
+    "diagnostics": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingBarApp.dia"
+  },
+  "/Users/codejagaban/uc-projects/MeetingBar/Sources/MeetingBar/MeetingExtractor.swift": {
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingExtractor.swift.o",
+    "swiftmodule": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingExtractor.swiftdeps",
+    "diagnostics": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/MeetingExtractor.dia"
+  },
+  "/Users/codejagaban/uc-projects/MeetingBar/Sources/MeetingBar/Models.swift": {
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/Models.swift.o",
+    "swiftmodule": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/Models.swiftdeps",
+    "diagnostics": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/Models.dia"
+  },
+  "/Users/codejagaban/uc-projects/MeetingBar/Sources/MeetingBar/SettingsView.swift": {
+    "object": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/codejagaban/uc-projects/MeetingBar/.build/arm64-apple-macosx/release/MeetingBar.build/SettingsView.dia"
+  }
+}
