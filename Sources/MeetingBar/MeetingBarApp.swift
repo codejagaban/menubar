@@ -165,15 +165,21 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
 
         let title = NSMutableAttributedString()
 
-        // Title line
+        // Title line - truncate long titles
+        let maxTitleLength = 55
+        let displayTitle = meeting.title.count > maxTitleLength
+            ? String(meeting.title.prefix(maxTitleLength - 2)) + ".."
+            : meeting.title
+
         let titlePara = NSMutableParagraphStyle()
         titlePara.paragraphSpacing = 2
+        titlePara.lineBreakMode = .byTruncatingTail
 
         let titleAttrs: [NSAttributedString.Key: Any] = [
             .font: NSFont.systemFont(ofSize: 13, weight: .regular),
             .paragraphStyle: titlePara
         ]
-        title.append(NSAttributedString(string: meeting.title, attributes: titleAttrs))
+        title.append(NSAttributedString(string: displayTitle, attributes: titleAttrs))
 
         // Time line with top padding
         let timePara = NSMutableParagraphStyle()
